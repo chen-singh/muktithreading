@@ -5,6 +5,7 @@ public class Test implements Runnable{
             System.out.println("chen");
         }
 
-        System.out.println("hello chen how are you");
+        System.out.println("chen sngh");
+                System.out.println("hello chen how are you");
     }
 }
